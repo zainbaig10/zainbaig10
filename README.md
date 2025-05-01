@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:zain.baig98@gmail.com">📩 Email</a> • 
   <a href="https://www.linkedin.com/in/zain-baig-3a19411a4/">💼 LinkedIn</a> • 
-  <a href="https://frabjous-semifreddo-e91925.netlify.app">🌐 Portfolio</a>
+  <a href="https://eloquent-dango-24efa4.netlify.app/">🌐 Portfolio</a>
 </p>
 
 ---
